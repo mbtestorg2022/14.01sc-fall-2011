@@ -11,7 +11,24 @@ uid: eba60351-486e-4457-3f84-ae3b47789fde
 Session Overview
 ----------------
 
-| ![lec04.jpg](/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/preferences-and-utility/lec04.jpg) |  {{< br >}}{{< br >}} Behind every supply and demand curve is an army of producers and consumers making their own decisions. For consumers, their decisions are driven, quite simply, by what they want! All consumers make decisions to maximize their utility. In this lecture, we will learn about utility, how to define it and how we represent it mathematically. {{< br >}}{{< br >}} _How does each slice of pizza you consume impact your utility for the next? Image courtesy of [William Jones](http://www.flickr.com/photos/fritish/3357925979/) on Flickr_. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![lec04.jpg](/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/preferences-and-utility/lec04.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Behind every supply and demand curve is an army of producers and consumers making their own decisions. For consumers, their decisions are driven, quite simply, by what they want! All consumers make decisions to maximize their utility. In this lecture, we will learn about utility, how to define it and how we represent it mathematically.
+
+_How does each slice of pizza you consume impact your utility for the next? Image courtesy of [William Jones](http://www.flickr.com/photos/fritish/3357925979/) on Flickr_.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Consumer theory; preference assumptions; indifference curves; utility functions; marginal utility.
 
@@ -68,8 +85,39 @@ See the \[Perloff\] chapter for the topics covered, as well as quizzes, applicat
 
 ### Other OCW and OER Content
 
-| CONTENT | PROVIDER | NOTES |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} "Axioms of Consumer Preference and the Theory of Choice."  Lec #3 in _14.03 Microeconomic Theory and Public Policy, Fall 2010_. {{< br >}}{{< br >}}  | MIT OpenCourseWare | Alternative notes with an advanced theoretical approach. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+PROVIDER
+{{< thclose >}}
+{{< thopen >}}
+NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+"Axioms of Consumer Preference and the Theory of Choice."  Lec #3 in _14.03 Microeconomic Theory and Public Policy, Fall 2010_.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Alternative notes with an advanced theoretical approach.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/unit-2-consumer-theory) | [Next]({{< baseurl >}}/pages/unit-2-consumer-theory/budget-constraints) »

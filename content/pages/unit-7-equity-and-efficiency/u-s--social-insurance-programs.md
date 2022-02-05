@@ -11,7 +11,24 @@ uid: 7846c5e3-1518-5524-02f1-19e7b530b4bd
 Session Overview
 ----------------
 
-| ![lec25.jpg]({{< resource_file bfcc3e0a-1b69-5138-82b6-23f4fcc0a8c7 >}}) |  {{< br >}}{{< br >}} The majority of government revenue earned is not spent on explicitly redistributive programs, such as those discussed in previous lectures about efficiency and equity. In fact, the majority of government revenue earned is devoted to social insurance. Social insurance is designed to insure individuals against risk in cases where the private market may not effectively provide such insurance. In this lecture, we will begin to learn about the role of social insurance. {{< br >}}{{< br >}} _Social Security, launched in 1935, is a US social insurance program. Image courtesy of [wisaflcio](http://www.flickr.com/photos/wisaflcio/4911396314/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![lec25.jpg]({{< resource_file bfcc3e0a-1b69-5138-82b6-23f4fcc0a8c7 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The majority of government revenue earned is not spent on explicitly redistributive programs, such as those discussed in previous lectures about efficiency and equity. In fact, the majority of government revenue earned is devoted to social insurance. Social insurance is designed to insure individuals against risk in cases where the private market may not effectively provide such insurance. In this lecture, we will begin to learn about the role of social insurance.
+
+_Social Security, launched in 1935, is a US social insurance program. Image courtesy of [wisaflcio](http://www.flickr.com/photos/wisaflcio/4911396314/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Taxation; tax cuts; redistribution methods; categorial cash transfers; social security.
 
@@ -49,8 +66,35 @@ These optional resources are provided for students that wish to explore this top
 
 ### Other OCW and OER Content
 
-| CONTENT | PROVIDER | NOTES |
-| --- | --- | --- |
-| [_14.41 Public Finance and Public Policy, Fall 2010_](/courses/14-41-public-finance-and-public-policy-fall-2010/). | MIT OpenCourseWare | An in-depth course on the government’s role in the economy. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+PROVIDER
+{{< thclose >}}
+{{< thopen >}}
+NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[_14.41 Public Finance and Public Policy, Fall 2010_](/courses/14-41-public-finance-and-public-policy-fall-2010/).
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+An in-depth course on the government’s role in the economy.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/unit-7-equity-and-efficiency/problem-set-9) | [Next]({{< baseurl >}}/pages/unit-7-equity-and-efficiency/healthcare-economics) »

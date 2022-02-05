@@ -11,7 +11,24 @@ uid: 617ef7a2-5dbc-5b46-dc2f-8d1834973f63
 Session Overview
 ----------------
 
-| ![lec14.jpg]({{< resource_file a25e5643-ccdc-3104-f634-64768ecf4a15 >}}) |  {{< br >}}{{< br >}} In the previous lectures, we began to learn about firms' decisions in a competitive market where there are a large number of firms. However, different markets have different characteristics, and in some markets there may be only one or a few firms. In this lecture, we begin to learn about the operations of a monopoly market, where only one firm is producing a given good. {{< br >}}{{< br >}} _The game Monopoly is named after the economic concept, in which one firm dominates an entire market. Image courtesy of William Boncher on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![lec14.jpg]({{< resource_file a25e5643-ccdc-3104-f634-64768ecf4a15 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In the previous lectures, we began to learn about firms' decisions in a competitive market where there are a large number of firms. However, different markets have different characteristics, and in some markets there may be only one or a few firms. In this lecture, we begin to learn about the operations of a monopoly market, where only one firm is producing a given good.
+
+_The game Monopoly is named after the economic concept, in which one firm dominates an entire market. Image courtesy of William Boncher on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Monopoly; marginal revenue; marginal cost; profit maximization; shutdown rule; market power; price discrimination.
 

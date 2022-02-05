@@ -11,7 +11,24 @@ uid: 12e64d3f-0644-2707-bfcb-6442dc9daf1b
 Session Overview
 ----------------
 
-| ![lec13.jpg]({{< resource_file 71791b27-7001-2076-ea7c-f29871eeabb5 >}}) |  {{< br >}}{{< br >}} When changes occur in a market—whether they are shifts in demand, shifts in supply, or government policies that interfere in the market's workings—they affect the welfare that market participants gain by virtue of being in the market. We can understand these changes by analyzing producer and consumer surplus, and this is the focus of this lecture. {{< br >}}{{< br >}} _Taxicab medallions are distributed and restricted by the government, and have an impact on social welfare. Image courtesy of [Vilseskogen](http://www.flickr.com/photos/vilseskogen/5846470744/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![lec13.jpg]({{< resource_file 71791b27-7001-2076-ea7c-f29871eeabb5 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+When changes occur in a market—whether they are shifts in demand, shifts in supply, or government policies that interfere in the market's workings—they affect the welfare that market participants gain by virtue of being in the market. We can understand these changes by analyzing producer and consumer surplus, and this is the focus of this lecture.
+
+_Taxicab medallions are distributed and restricted by the government, and have an impact on social welfare. Image courtesy of [Vilseskogen](http://www.flickr.com/photos/vilseskogen/5846470744/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Welfare economics; consumer surplus; producer surplus; social welfare; dead weight loss.
 

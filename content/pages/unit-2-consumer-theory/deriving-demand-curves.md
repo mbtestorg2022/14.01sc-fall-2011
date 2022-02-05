@@ -11,7 +11,24 @@ uid: e0983a2e-16f7-37a8-ad57-4f6bb67502e5
 Session Overview
 ----------------
 
-| ![lec06.jpg]({{< resource_file fd606424-586b-15ba-0c8b-ab02c07e99b7 >}}) |  {{< br >}}{{< br >}} Individuals make decisions about what to buy and when. But when we talk about the economy every day, we are often analyzing what millions of people are doing and deciding to do at different times. In order to think about this problem, we need to move from the micro to the macro and use our model of individual behavior to generate predictions about what will happen to total demand when the price changes. {{< br >}}{{< br >}} _Vintage food stamps. Image courtesy of_ [_Brian_](http://www.flickr.com/photos/ncreedplayer/4459054998/) _on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![lec06.jpg]({{< resource_file fd606424-586b-15ba-0c8b-ab02c07e99b7 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Individuals make decisions about what to buy and when. But when we talk about the economy every day, we are often analyzing what millions of people are doing and deciding to do at different times. In order to think about this problem, we need to move from the micro to the macro and use our model of individual behavior to generate predictions about what will happen to total demand when the price changes.
+
+_Vintage food stamps. Image courtesy of_ [_Brian_](http://www.flickr.com/photos/ncreedplayer/4459054998/) _on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Constrained budget; price elasticity; Engel curves; income effect; substitution effect.
 
@@ -66,8 +83,35 @@ See the \[Perloff\] chapter for topics covered, as well as quizzes, applications
 
 ### Other OCW and OER Content
 
-| CONTENT | PROVIDER | NOTES |
-| --- | --- | --- |
-| "The Expenditure Function: An Application to the Economics of Food Stamps."  Lec #5 in _14.03 Microeconomic Theory and Public Policy, Fall 2010_. | MIT OpenCourseWare | Alternative notes with an advanced theoretical approach. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+PROVIDER
+{{< thclose >}}
+{{< thopen >}}
+NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"The Expenditure Function: An Application to the Economics of Food Stamps."  Lec #5 in _14.03 Microeconomic Theory and Public Policy, Fall 2010_.
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Alternative notes with an advanced theoretical approach.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/unit-2-consumer-theory/problem-set-2) | [Next]({{< baseurl >}}/pages/unit-2-consumer-theory/applying-consumer-theory-labor) »

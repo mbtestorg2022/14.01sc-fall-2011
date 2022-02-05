@@ -11,7 +11,24 @@ uid: 52d96c2f-56aa-990b-e3ea-69526d59464b
 Session Overview
 ----------------
 
-| ![lec07.jpg]({{< resource_file 33f80df0-45a2-d873-690c-46d621bfe8bf >}}) |  {{< br >}}{{< br >}} Along with what to buy, another key decision that we make every day as economic agents is how much to work and how much to relax. The decision about supplying labor can be analyzed with the same tools used to analyze the market for pizza or movies, and we call this the analysis of the labor market. This lecture provides an overview of the economics of the labor market. {{< br >}}{{< br >}} _The decision to nap instead of work can be analyzed by economic tools. Image courtesy of [Joi Ito](http://www.flickr.com/photos/joi/9913697/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![lec07.jpg]({{< resource_file 33f80df0-45a2-d873-690c-46d621bfe8bf >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Along with what to buy, another key decision that we make every day as economic agents is how much to work and how much to relax. The decision about supplying labor can be analyzed with the same tools used to analyze the market for pizza or movies, and we call this the analysis of the labor market. This lecture provides an overview of the economics of the labor market.
+
+_The decision to nap instead of work can be analyzed by economic tools. Image courtesy of [Joi Ito](http://www.flickr.com/photos/joi/9913697/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Labor supply; Giffin good; leisure; consumer theory; labor economics; child labor.
 
@@ -82,8 +99,35 @@ See the \[Perloff\] chapter for the topics covered, as well as quizzes, applicat
 
 ### Other OCW and OER Content
 
-| CONTENT | PROVIDER | NOTES |
-| --- | --- | --- |
-| [_14.64 Labor Economics and Public Policy, Fall 2009_](/courses/14-64-labor-economics-and-public-policy-fall-2009/). | MIT OpenCourseWare | An in-depth course on labor economics. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+PROVIDER
+{{< thclose >}}
+{{< thopen >}}
+NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[_14.64 Labor Economics and Public Policy, Fall 2009_](/courses/14-64-labor-economics-and-public-policy-fall-2009/).
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+An in-depth course on labor economics.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/unit-2-consumer-theory/deriving-demand-curves) | [Next]({{< baseurl >}}/pages/unit-2-consumer-theory/problem-set-3) »

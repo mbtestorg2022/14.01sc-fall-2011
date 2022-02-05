@@ -11,7 +11,24 @@ uid: c282655d-a496-1349-b75e-5b0e7692c61b
 Session Overview
 ----------------
 
-| ![lec08.jpg]({{< resource_file 4e52aa37-945e-a802-185e-3233889af156 >}}) |  {{< br >}}{{< br >}} As we've already learned, consumers gain utility from buying goods—but every good has to come from somewhere! Goods are produced by firms, and analyzing the decisions of firms is also central to our understanding of the economy. In this lecture, we will learn how companies make important operation decisions. {{< br >}}{{< br >}} _When considering firm production decisions, we must consider the two forms of firm input – labor and capital. This image is a work of the US Federal Government and in the public domain. Source: [Library of Congress](http://www.loc.gov/pictures/resource/fsac.1a34951/)_. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![lec08.jpg]({{< resource_file 4e52aa37-945e-a802-185e-3233889af156 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+As we've already learned, consumers gain utility from buying goods—but every good has to come from somewhere! Goods are produced by firms, and analyzing the decisions of firms is also central to our understanding of the economy. In this lecture, we will learn how companies make important operation decisions.
+
+_When considering firm production decisions, we must consider the two forms of firm input – labor and capital. This image is a work of the US Federal Government and in the public domain. Source: [Library of Congress](http://www.loc.gov/pictures/resource/fsac.1a34951/)_.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Production theory; firm production functions; variable inputs; fixed inputs; short run production; long run production; marginal rate of technical substitution; returns to scale.
 

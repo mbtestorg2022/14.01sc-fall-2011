@@ -11,7 +11,24 @@ uid: c51a6858-5b2e-cbf5-8359-4f4bc69947e1
 Session Overview
 ----------------
 
-| ![lec10.jpg]({{< resource_file e570c181-4ed4-e9ed-b824-3cc8eb139b92 >}}) |  {{< br >}}{{< br >}} Working with the firm's cost function enables us to learn how much of each input the firm should optimally use to produce a given level of output. However, the firm still has to decide how much output it should produce. This decision depends on the type of market the firm is operating in. We begin by analyzing the most common type of market: perfect competition. {{< br >}}{{< br >}} _Firms, like auto racers, operate in a competitive environment. This image is a work of the US Federal Government and in the public domain. Source: [Wikipedia](http://en.wikipedia.org/wiki/File:NASCAR_practice.jpg)._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![lec10.jpg]({{< resource_file e570c181-4ed4-e9ed-b824-3cc8eb139b92 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Working with the firm's cost function enables us to learn how much of each input the firm should optimally use to produce a given level of output. However, the firm still has to decide how much output it should produce. This decision depends on the type of market the firm is operating in. We begin by analyzing the most common type of market: perfect competition.
+
+_Firms, like auto racers, operate in a competitive environment. This image is a work of the US Federal Government and in the public domain. Source: [Wikipedia](http://en.wikipedia.org/wiki/File:NASCAR_practice.jpg)._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Perfect competition; search theory; residual demand; cost measurement; profit maximization.
 

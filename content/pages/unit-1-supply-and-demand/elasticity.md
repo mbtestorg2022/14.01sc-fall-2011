@@ -11,7 +11,24 @@ uid: e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1
 Session Overview
 ----------------
 
-| ![Store aisle for toilet paper.]({{< resource_file a7c93a92-917a-7f31-1c28-246dfe73a021 >}}) |  {{< br >}}{{< br >}} Everyone knows the unpleasant feeling that results from the price of something you've been longing to buy increasing – or the excitement of seeing your favorite snack go on sale! When the price of a good changes, consumers' demand for that good changes. We can understand these changes by graphing supply and demand curves and analyzing their properties. {{< br >}}{{< br >}} _Toilet paper is an example of an elastic good. Image courtesy of_ [_Nic Stage_](http://www.flickr.com/photos/nic-stage/4321461836/in/photostream/) _on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Store aisle for toilet paper.]({{< resource_file a7c93a92-917a-7f31-1c28-246dfe73a021 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Everyone knows the unpleasant feeling that results from the price of something you've been longing to buy increasing – or the excitement of seeing your favorite snack go on sale! When the price of a good changes, consumers' demand for that good changes. We can understand these changes by graphing supply and demand curves and analyzing their properties.
+
+_Toilet paper is an example of an elastic good. Image courtesy of_ [_Nic Stage_](http://www.flickr.com/photos/nic-stage/4321461836/in/photostream/) _on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Elasticity; revenue; empirical economics; demand elasticity; supply elasticity.
 

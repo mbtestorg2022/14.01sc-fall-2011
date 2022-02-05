@@ -11,7 +11,24 @@ uid: 66c54ff6-d570-18af-9a41-352ad16e70f7
 Session Overview
 ----------------
 
-| ![lec22.jpg]({{< resource_file c5553330-5862-a26d-1212-cf252f484047 >}}) |  {{< br >}}{{< br >}} Now that we understand what the cost and benefits are of different consumption and investment decisions over time, we can understand how both firms and individual consumers make decisions about how much to invest in different types of opportunities. In this lecture, we will discuss how individuals make major decisions, such as whether to attend college and how much to save for retirement. {{< br >}}{{< br >}} _The savings of individuals drive the growth of our economy. Image courtesy of [B3OK](http://www.flickr.com/photos/b3ok/2920350568/in/photostream/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![lec22.jpg]({{< resource_file c5553330-5862-a26d-1212-cf252f484047 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Now that we understand what the cost and benefits are of different consumption and investment decisions over time, we can understand how both firms and individual consumers make decisions about how much to invest in different types of opportunities. In this lecture, we will discuss how individuals make major decisions, such as whether to attend college and how much to save for retirement.
+
+_The savings of individuals drive the growth of our economy. Image courtesy of [B3OK](http://www.flickr.com/photos/b3ok/2920350568/in/photostream/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Investment decisions; net present value; discount rate; subsidized retirement savings programs.
 

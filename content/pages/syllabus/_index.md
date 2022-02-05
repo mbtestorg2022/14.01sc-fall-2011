@@ -60,10 +60,39 @@ Course Components and Requirements
 
 Readings are assigned for each lecture, and should be completed prior to watching the lecture videos and completing subsequent activities.
 
-| TEXTBOOK | DESCRIPTION |
-| --- | --- |
-| {{< anchor "_Perloff_" >}}{{< /anchor >}}\[Perloff\] = Perloff, Jeffrey M. _Microeconomics_. 5th ed. Addison Wesley, 2008. ISBN: 9780321558497. | This is the official textbook used by students enrolled in the class at MIT. While OCW cannot provide online access to this book, we provide "For Further Study" links to supplemental materials. |
-| {{< anchor "_R_T_" >}}{{< /anchor >}}\[R&T\] = Rittenberg, Libby, and Timothy Tregarthen. [_Principles of Microeconomics_ (PDF - 15.1MB)](/ans7870/14/14.01SC/MIT14_01SCF11_rttext.pdf). 2009. (Courtesy of Libby Rittenberg, Timothy Tregarthen, and the Saylor Foundation.) | This Creative Commons-licensed text is a free online alternative to Perloff text used in the class at MIT. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TEXTBOOK
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{< anchor "_Perloff_" >}}{{< /anchor >}}\[Perloff\] = Perloff, Jeffrey M. _Microeconomics_. 5th ed. Addison Wesley, 2008. ISBN: 9780321558497.
+{{< tdclose >}}
+{{< tdopen >}}
+This is the official textbook used by students enrolled in the class at MIT. While OCW cannot provide online access to this book, we provide "For Further Study" links to supplemental materials.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{< anchor "_R_T_" >}}{{< /anchor >}}\[R&T\] = Rittenberg, Libby, and Timothy Tregarthen. [_Principles of Microeconomics_ (PDF - 15.1MB)](/ans7870/14/14.01SC/MIT14_01SCF11_rttext.pdf). 2009. (Courtesy of Libby Rittenberg, Timothy Tregarthen, and the Saylor Foundation.)
+{{< tdclose >}}
+{{< tdopen >}}
+This Creative Commons-licensed text is a free online alternative to Perloff text used in the class at MIT.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Recitations
 

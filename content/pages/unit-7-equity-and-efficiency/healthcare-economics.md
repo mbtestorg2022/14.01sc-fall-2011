@@ -11,7 +11,24 @@ uid: 41da8f54-7f2a-d774-baa0-e7c50d7cf9e6
 Session Overview
 ----------------
 
-| ![lec26.jpg](/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/lec26.jpg) |  {{< br >}}{{< br >}} In 2010, President Obama signed the Patient Protection and Affordable Care Act (PPACA) into law to address issues of access and cost in healthcare. In this lecture, we discuss these issues in healthcare and the role of the PPACA in addressing these issues to demonstrate how a public policy tool can be used to address many of the economic problems discussed throughout the course. {{< br >}}{{< br >}} _The overuse of medical services is a key problem in healthcare. Image courtesy of [University of Nottingham](http://www.flickr.com/photos/uonottingham/6673322549/in/photostream/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![lec26.jpg](/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/lec26.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In 2010, President Obama signed the Patient Protection and Affordable Care Act (PPACA) into law to address issues of access and cost in healthcare. In this lecture, we discuss these issues in healthcare and the role of the PPACA in addressing these issues to demonstrate how a public policy tool can be used to address many of the economic problems discussed throughout the course.
+
+_The overuse of medical services is a key problem in healthcare. Image courtesy of [University of Nottingham](http://www.flickr.com/photos/uonottingham/6673322549/in/photostream/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Healthcare; medical costs; medical insurance; PPACA; moral hazard.
 

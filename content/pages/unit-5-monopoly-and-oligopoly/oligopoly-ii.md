@@ -11,7 +11,24 @@ uid: 2954fa84-88a1-a8cb-0a6a-bcfda77e25b9
 Session Overview
 ----------------
 
-| ![lec17.jpg]({{< resource_file a025b1be-c427-d90b-fbcd-335c04a880c4 >}}) |  {{< br >}}{{< br >}} So far, we have only analyzed one type of oligopoly. However, even when there are a small number of firms in a market, they can behave in a variety of different ways. We can compare the outcomes from these different types of competition to the competitive market. In this lecture, we learn more about different models of oligopoly. {{< br >}}{{< br >}} _Bertrand price competition can be applied to pricing cereal. Image courtesy of [ElCapitan](http://www.flickr.com/photos/elcapitan/2388687600/in/photostream/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![lec17.jpg]({{< resource_file a025b1be-c427-d90b-fbcd-335c04a880c4 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+So far, we have only analyzed one type of oligopoly. However, even when there are a small number of firms in a market, they can behave in a variety of different ways. We can compare the outcomes from these different types of competition to the competitive market. In this lecture, we learn more about different models of oligopoly.
+
+_Bertrand price competition can be applied to pricing cereal. Image courtesy of [ElCapitan](http://www.flickr.com/photos/elcapitan/2388687600/in/photostream/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Cournot competition; cooperative competition; cartels; mergers; Bertrand competition.
 

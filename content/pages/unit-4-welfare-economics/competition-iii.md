@@ -11,7 +11,24 @@ uid: 67a95d63-65f3-7075-74af-48aaa0010a46
 Session Overview
 ----------------
 
-| ![lec12.jpg]({{< resource_file ecc124ff-88cf-c639-de66-0c85f6f1e79a >}}) |  {{< br >}}{{< br >}} Models are easy to construct, but they may not always exactly match reality. While we assume that firms maximize profits, this may not always be true, and in this lecture we start to learn why. We also start to think about how we can measure the welfare that consumers gain from participating in a market. {{< br >}}{{< br >}} _Stocks and stock options are commonly used to overcome the agency problem. Image courtesy of [Lance Ball](http://www.flickr.com/photos/skimcoat/2931005015/in/photostream/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![lec12.jpg]({{< resource_file ecc124ff-88cf-c639-de66-0c85f6f1e79a >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Models are easy to construct, but they may not always exactly match reality. While we assume that firms maximize profits, this may not always be true, and in this lecture we start to learn why. We also start to think about how we can measure the welfare that consumers gain from participating in a market.
+
+_Stocks and stock options are commonly used to overcome the agency problem. Image courtesy of [Lance Ball](http://www.flickr.com/photos/skimcoat/2931005015/in/photostream/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Agency problem; corporations; stock options; normative economics; welfare economics; consumer surplus.
 

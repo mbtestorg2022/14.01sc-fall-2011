@@ -11,7 +11,24 @@ uid: 35e2a9c4-1897-5d5d-2bfc-b2dfa5fa18ac
 Session Overview
 ----------------
 
-| ![lec09.jpg]({{< resource_file c70ff7c3-1f3a-a85e-e101-d596bd353a36 >}}) |  {{< br >}}{{< br >}} Everything has a cost, and that is true for firms as well as consumers. When firms produce goods, they incur costs that vary depending on how much they are producing. In this lecture, we will analyze firms' cost functions. {{< br >}}{{< br >}} _Building factory infrastructure is a producer cost. Image courtesy of AndreasPraefcke on_ [_Wikipedia_](http://en.wikipedia.org/wiki/File:Wolfsburg_VW-Werk.jpg). {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![lec09.jpg]({{< resource_file c70ff7c3-1f3a-a85e-e101-d596bd353a36 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Everything has a cost, and that is true for firms as well as consumers. When firms produce goods, they incur costs that vary depending on how much they are producing. In this lecture, we will analyze firms' cost functions.
+
+_Building factory infrastructure is a producer cost. Image courtesy of AndreasPraefcke on_ [_Wikipedia_](http://en.wikipedia.org/wiki/File:Wolfsburg_VW-Werk.jpg).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Productivity; food production; costs; marginal costs; long run costs; short run costs.
 

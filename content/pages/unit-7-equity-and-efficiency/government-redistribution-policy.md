@@ -11,7 +11,24 @@ uid: b3df4706-2059-ac3f-7af8-8832de93e0fb
 Session Overview
 ----------------
 
-| ![lec24.jpg]({{< resource_file b2a3f85a-070f-ccc8-3d5d-c972ba4a110f >}}) |  {{< br >}}{{< br >}} A key element of government policy that determines how much we can redistribute among households is the tax rate. The tax rate is used to raise revenues, which can then be used in government programs. What type of taxes we should use and how high tax rates should be are major questions that economics attempts to answer. This lecture provides an introduction to the economics of taxation. {{< br >}}{{< br >}} _The Capitol Building, where the United States Congress proposes economic policy such as tax rates. Image courtesy of [Ed Marshall](http://www.flickr.com/photos/edward_marshall/4205363720/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![lec24.jpg]({{< resource_file b2a3f85a-070f-ccc8-3d5d-c972ba4a110f >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+A key element of government policy that determines how much we can redistribute among households is the tax rate. The tax rate is used to raise revenues, which can then be used in government programs. What type of taxes we should use and how high tax rates should be are major questions that economics attempts to answer. This lecture provides an introduction to the economics of taxation.
+
+_The Capitol Building, where the United States Congress proposes economic policy such as tax rates. Image courtesy of [Ed Marshall](http://www.flickr.com/photos/edward_marshall/4205363720/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Social insurance; asymmetric information; social security; moral hazard; EITC.
 
@@ -51,8 +68,35 @@ These optional resources are provided for students that wish to explore this top
 
 ### Other OCW and OER Content
 
-| CONTENT | PROVIDER | NOTES |
-| --- | --- | --- |
-| [_14.41 Public Finance and Public Policy, Fall 2010_](/courses/14-41-public-finance-and-public-policy-fall-2010/)_._ | MIT OpenCourseWare | An in-depth course on the government’s role in the economy. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CONTENT
+{{< thclose >}}
+{{< thopen >}}
+PROVIDER
+{{< thclose >}}
+{{< thopen >}}
+NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[_14.41 Public Finance and Public Policy, Fall 2010_](/courses/14-41-public-finance-and-public-policy-fall-2010/)_._
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+An in-depth course on the government’s role in the economy.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/unit-7-equity-and-efficiency/equity-and-efficiency) | [Next]({{< baseurl >}}/pages/unit-7-equity-and-efficiency/problem-set-9) »

@@ -11,7 +11,24 @@ uid: 1540ea69-3186-1f85-5d35-b82c66e44bec
 Session Overview
 ----------------
 
-| ![lec21.jpg]({{< resource_file c3f9b54a-c92e-adab-3e0f-2033e6361b4c >}}) |  {{< br >}}{{< br >}} During most of our discussion of consumer decisions and the production decisions of firms, we have focused on only labor and the decisions that individuals make about whether or not to work. We know from our study of production functions that firms also use capital to produce output. Where does capital come from? Not surprisingly, it is the result of another consumer decision, the decision of whether or not to save. This lecture analyzes the decisions consumers and firms make in the capital market. {{< br >}}{{< br >}} _Inflation rates change the value of a dollar from year to year. This image is in the public domain. Source: [Wikipedia](http://en.wikipedia.org/wiki/File:US_Inflation.png)._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![lec21.jpg]({{< resource_file c3f9b54a-c92e-adab-3e0f-2033e6361b4c >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+During most of our discussion of consumer decisions and the production decisions of firms, we have focused on only labor and the decisions that individuals make about whether or not to work. We know from our study of production functions that firms also use capital to produce output. Where does capital come from? Not surprisingly, it is the result of another consumer decision, the decision of whether or not to save. This lecture analyzes the decisions consumers and firms make in the capital market.
+
+_Inflation rates change the value of a dollar from year to year. This image is in the public domain. Source: [Wikipedia](http://en.wikipedia.org/wiki/File:US_Inflation.png)._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Capital markets; intertemporal choice; present value; future value; inflation; real interest rate; compounding.
 

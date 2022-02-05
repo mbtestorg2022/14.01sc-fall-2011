@@ -11,7 +11,24 @@ uid: 50af805f-c0a0-d661-779c-f0c42425f15d
 Session Overview
 ----------------
 
-| ![lec15.jpg]({{< resource_file 996b6c20-e243-ccb5-fa6f-630327ee1fe3 >}}) |  {{< br >}}{{< br >}} The analytical picture of monopolies presented in our last lecture may be too simple. Monopolies may not always charge the same price to every customer – they can choose to charge different prices, a phenomenon known as price discrimination. Monopolies are regulated by governments to limit their market power, yet in some cases governments may encourage the operation of monopolies. These cases are discussed in greater detail in this lecture. {{< br >}}{{< br >}} _The U.S. Department of Justice enforces antitrust laws. Image courtesy of [John Taylor](http://www.flickr.com/photos/jbtaylor/5566452462/in/photostream/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![lec15.jpg]({{< resource_file 996b6c20-e243-ccb5-fa6f-630327ee1fe3 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The analytical picture of monopolies presented in our last lecture may be too simple. Monopolies may not always charge the same price to every customer – they can choose to charge different prices, a phenomenon known as price discrimination. Monopolies are regulated by governments to limit their market power, yet in some cases governments may encourage the operation of monopolies. These cases are discussed in greater detail in this lecture.
+
+_The U.S. Department of Justice enforces antitrust laws. Image courtesy of [John Taylor](http://www.flickr.com/photos/jbtaylor/5566452462/in/photostream/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Monopoly; price discrimination; natural monopolies; price regulation; antitrust policy; mergers; contestable markets.
 

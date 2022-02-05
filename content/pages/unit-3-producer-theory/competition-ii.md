@@ -11,7 +11,24 @@ uid: 032b458b-15b1-6f20-7453-36ff876c9f66
 Session Overview
 ----------------
 
-| ![lec11.jpg]({{< resource_file 5015a270-b1c6-157c-f6ae-2a1bbbffe87c >}}) |  {{< br >}}{{< br >}} In this lecture, we continue to learn about competition, and its implications for the supply curve for different goods. We can use this to construct the market supply curve from firms' supply curves. Now we have all the ingredients for fully understanding the basic supply and demand diagrams that launched our study of economics. {{< br >}}{{< br >}} _In this lecture, we will learn about the factors that influence a firm's shutdown decision. Image courtesy of [johnthurm](http://www.flickr.com/photos/thurm/2111952075/in/photostream/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![lec11.jpg]({{< resource_file 5015a270-b1c6-157c-f6ae-2a1bbbffe87c >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this lecture, we continue to learn about competition, and its implications for the supply curve for different goods. We can use this to construct the market supply curve from firms' supply curves. Now we have all the ingredients for fully understanding the basic supply and demand diagrams that launched our study of economics.
+
+_In this lecture, we will learn about the factors that influence a firm's shutdown decision. Image courtesy of [johnthurm](http://www.flickr.com/photos/thurm/2111952075/in/photostream/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Shutdown decisions; market supply curves; short-run market equilibrium; long-run market equilibrium.
 

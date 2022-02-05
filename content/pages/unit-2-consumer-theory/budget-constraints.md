@@ -11,7 +11,24 @@ uid: 0c0a7957-a70d-ea1c-20bc-11996dd1090c
 Session Overview
 ----------------
 
-| ![lec05.jpg]({{< resource_file 4cb70013-c1f3-6dd4-5e32-0bd8c7e4b9dc >}}) |  {{< br >}}{{< br >}} Life would be easy if it was just a question of deciding what we would like most. The answer would probably be more of everything! Of course, economic decisions are not that simple, and the reason is that we are constrained in what we can choose: constrained by the amount of income, the amount of time, or any one of a number of factors. In this lecture we will analyze how consumers make choices when they face a budget constraint. {{< br >}}{{< br >}} _Our monetary income constrains our consumption. Image courtesy of_ [_allison.johnston_](http://www.flickr.com/photos/allisonjohnstonn/6332964795/in/photostream/) _on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![lec05.jpg]({{< resource_file 4cb70013-c1f3-6dd4-5e32-0bd8c7e4b9dc >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Life would be easy if it was just a question of deciding what we would like most. The answer would probably be more of everything! Of course, economic decisions are not that simple, and the reason is that we are constrained in what we can choose: constrained by the amount of income, the amount of time, or any one of a number of factors. In this lecture we will analyze how consumers make choices when they face a budget constraint.
+
+_Our monetary income constrains our consumption. Image courtesy of_ [_allison.johnston_](http://www.flickr.com/photos/allisonjohnstonn/6332964795/in/photostream/) _on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Budget constraints; marginal rate of transformation; opportunity cost; constrained utility maximization; corner solutions.
 

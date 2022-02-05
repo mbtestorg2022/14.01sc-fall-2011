@@ -11,7 +11,24 @@ uid: eb20a386-5631-4e61-6324-268b98c9df1d
 Session Overview
 ----------------
 
-| ![lec20.jpg]({{< resource_file 38ca8616-5171-394f-4f2d-a7129662c38f >}}) |  {{< br >}}{{< br >}} Up until now, our analysis of consumers and firms alike has assumed that both have perfect knowledge of the future. However, the world is filled with uncertainty. We don't know if it will rain tomorrow, if the stock market will go up next year, or if a new business will succeed or fail. This lecture analyzes the implications of uncertainty for consumer decisions. {{< br >}}{{< br >}} _The economics of uncertainty impacts our decision to play the lottery. Image courtesy of [Tom Morris](http://www.flickr.com/photos/tommorris/241508717/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![lec20.jpg]({{< resource_file 38ca8616-5171-394f-4f2d-a7129662c38f >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Up until now, our analysis of consumers and firms alike has assumed that both have perfect knowledge of the future. However, the world is filled with uncertainty. We don't know if it will rain tomorrow, if the stock market will go up next year, or if a new business will succeed or fail. This lecture analyzes the implications of uncertainty for consumer decisions.
+
+_The economics of uncertainty impacts our decision to play the lottery. Image courtesy of [Tom Morris](http://www.flickr.com/photos/tommorris/241508717/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Expected utility theory; risk aversion; expected value; gambling.
 

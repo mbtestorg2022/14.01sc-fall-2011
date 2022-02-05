@@ -11,7 +11,24 @@ uid: bf5626a7-d48d-d3b2-58c6-78a13912ef84
 Session Overview
 ----------------
 
-| ![Gasoline prices.]({{< resource_file 4d900c8c-4d92-e21c-c8fc-835a4eede65d >}}) |  {{< br >}}{{< br >}} You may not realize it, but every time you purchase something, you are participating in a market for that good. Some people supply it, and some people—you!—demand it. In this lecture, we will examine how to analyze supply and demand curves and the impact changes in market conditions and government policy can have on market equilibrium. {{< br >}}{{< br >}} _Government intervention can impact gasoline prices. Image courtesy of_ [_Aaron Tyo-Dikerson_](http://www.flickr.com/photos/tyodickerson/39826870/) _on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Gasoline prices.]({{< resource_file 4d900c8c-4d92-e21c-c8fc-835a4eede65d >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+You may not realize it, but every time you purchase something, you are participating in a market for that good. Some people supply it, and some people—you!—demand it. In this lecture, we will examine how to analyze supply and demand curves and the impact changes in market conditions and government policy can have on market equilibrium.
+
+_Government intervention can impact gasoline prices. Image courtesy of_ [_Aaron Tyo-Dikerson_](http://www.flickr.com/photos/tyodickerson/39826870/) _on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Supply and demand; equilibrium; demand shift; supply shift; government interference.
 

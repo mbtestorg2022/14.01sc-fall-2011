@@ -11,7 +11,24 @@ uid: b9026c77-1341-a253-b9d1-649dae571519
 Session Overview
 ----------------
 
-| ![A box of chocolates.]({{< resource_file a01213f3-475b-5b31-b760-5b825fba23af >}}) |  {{< br >}}{{< br >}} Economics may have a reputation as a dismal science, but in fact it addresses some of the most fundamental problems we face: How to make the best decision given that resources are limited. You can use the tools of microeconomics to decide how best to spend your income; how best to divide your time among leisure activities; or how many people to hire in the business you run. Life is full of choices. Microeconomics can help you decide how to make them. {{< br >}}{{< br >}} _Economics can't help you make a selection from this box of chocolates, but can be a vital tool in other decision-making situations. Image courtesy of_ [_ninanord_](http://www.flickr.com/photos/ninsvims/3264175368/) _on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![A box of chocolates.]({{< resource_file a01213f3-475b-5b31-b760-5b825fba23af >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Economics may have a reputation as a dismal science, but in fact it addresses some of the most fundamental problems we face: How to make the best decision given that resources are limited. You can use the tools of microeconomics to decide how best to spend your income; how best to divide your time among leisure activities; or how many people to hire in the business you run. Life is full of choices. Microeconomics can help you decide how to make them.
+
+_Economics can't help you make a selection from this box of chocolates, but can be a vital tool in other decision-making situations. Image courtesy of_ [_ninanord_](http://www.flickr.com/photos/ninsvims/3264175368/) _on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Keywords_: Microeconomics; prices; normative economics; positive economics; microeconomic applications.
 
