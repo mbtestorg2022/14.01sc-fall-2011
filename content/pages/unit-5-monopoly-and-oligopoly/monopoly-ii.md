@@ -80,6 +80,6 @@ These optional resources are provided for students that wish to explore this top
 
 See the \[Perloff\] chapter for the topics covered, as well as quizzes, applications, and other related resources.
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Chapter 11 (PDF - 1.6MB)](http://faculty.bcitbusiness.ca/KevinW/6500/Perloff/11M_Perloff_8008884_02_Micro_C11.pdf)
+*    [Chapter 11 (PDF - 1.6MB)](http://faculty.bcitbusiness.ca/KevinW/6500/Perloff/11M_Perloff_8008884_02_Micro_C11.pdf)
 
 « [Previous]({{< baseurl >}}/pages/unit-5-monopoly-and-oligopoly/problem-set-6) | [Next]({{< baseurl >}}/pages/unit-5-monopoly-and-oligopoly/oligopoly-i) »
