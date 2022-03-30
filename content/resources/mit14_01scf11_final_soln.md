@@ -5,6 +5,7 @@ description: 'This resource contains solutions to the problem statements related
   trade, and price discrimination. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-01sc-principles-of-microeconomics-fall-2011/6c60e9cb452492f849f1d95210e28bf3_MIT14_01SCF11_final_soln.pdf
 file_type: application/pdf
+parent_uid: 0a131ce5-8530-cca6-ffa8-3134297349da
 resourcetype: Document
 title: MIT14_01SCF11_final_soln.pdf
 uid: 6c60e9cb-4524-92f8-49f1-d95210e28bf3

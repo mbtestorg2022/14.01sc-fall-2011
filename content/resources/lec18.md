@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 2b057e13-f81e-86aa-d632-c23c1074b663
 resourcetype: Image
 title: lec18.jpg
 uid: be28d675-3c00-4d62-69ce-2cd84eb6c324

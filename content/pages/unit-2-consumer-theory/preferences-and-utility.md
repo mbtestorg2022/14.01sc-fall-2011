@@ -14,7 +14,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![lec04.jpg](/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/preferences-and-utility/lec04.jpg)
+{{< resource "6f48d646-238f-270e-2406-2afdc13b7bfd" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 

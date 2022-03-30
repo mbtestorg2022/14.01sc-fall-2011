@@ -84,7 +84,7 @@ NOTES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[_14.41 Public Finance and Public Policy, Fall 2010_](/courses/14-41-public-finance-and-public-policy-fall-2010/).
+[_14.41 Public Finance and Public Policy, Fall 2010_](/courses/14-41-public-finance-and-public-policy-fall-2010).
 {{< tdclose >}}
 {{< tdopen >}}
 MIT OpenCourseWare

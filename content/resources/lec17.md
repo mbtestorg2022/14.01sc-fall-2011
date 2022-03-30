@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 51ebf007-53b9-a85a-f746-a5c03a54785d
 resourcetype: Image
 title: lec17.jpg
 uid: a025b1be-c427-d90b-fbcd-335c04a880c4

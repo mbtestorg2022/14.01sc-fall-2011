@@ -9,6 +9,7 @@ image_metadata:
   credit: 'This image is a work of the US Federal Government and in the public domain.
     Source: Wikipedia.'
   image-alt: ''
+parent_uid: c51a6858-5b2e-cbf5-8359-4f4bc69947e1
 resourcetype: Image
 title: lec10.jpg
 uid: e570c181-4ed4-e9ed-b824-3cc8eb139b92

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 2b057e13-f81e-86aa-d632-c23c1074b663
 resourcetype: Image
 title: lec21.jpg
 uid: c3f9b54a-c92e-adab-3e0f-2033e6361b4c

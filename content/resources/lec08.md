@@ -11,6 +11,7 @@ image_metadata:
   credit: 'This image is a work of the US Federal Government and in the public domain.
     Source: Library of Congress.'
   image-alt: ''
+parent_uid: c282655d-a496-1349-b75e-5b0e7692c61b
 resourcetype: Image
 title: lec08.jpg
 uid: 4e52aa37-945e-a802-185e-3233889af156

@@ -10,6 +10,7 @@ image_metadata:
     but can be a vital tool in other decision-making situations.
   credit: Image courtesy of ninanord on Flickr.
   image-alt: A box of chocolates.
+parent_uid: b9026c77-1341-a253-b9d1-649dae571519
 resourcetype: Image
 title: lec01.jpg
 uid: a01213f3-475b-5b31-b760-5b825fba23af

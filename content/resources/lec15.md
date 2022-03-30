@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 51ebf007-53b9-a85a-f746-a5c03a54785d
 resourcetype: Image
 title: lec15.jpg
 uid: 996b6c20-e243-ccb5-fa6f-630327ee1fe3

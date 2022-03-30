@@ -6,7 +6,7 @@ title: Healthcare Economics
 uid: 41da8f54-7f2a-d774-baa0-e7c50d7cf9e6
 ---
 
-« [Previous](/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/u.s.-social-insurance-programs) | [Next]({{< baseurl >}}/pages/final-exam) »
+« {{% resource_link "7846c5e3-1518-5524-02f1-19e7b530b4bd" "Previous" %}} | [Next]({{< baseurl >}}/pages/final-exam) »
 
 Session Overview
 ----------------
@@ -14,7 +14,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![lec26.jpg](/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/lec26.jpg)
+{{< resource "a4d55a2e-2350-59c1-897d-f6ec266e1903" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -66,4 +66,4 @@ To learn more about healthcare reform, check out Professor Gruber's graphic nove
 
 Gruber, Jonathan. _Health Care Reform: What It Is, Why It's Necessary, How It Works_. Hill and Wang, 2011. ISBN: 9780809053971.
 
-« [Previous](/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/u.s.-social-insurance-programs) | [Next]({{< baseurl >}}/pages/final-exam) »
+« {{% resource_link "7846c5e3-1518-5524-02f1-19e7b530b4bd" "Previous" %}} | [Next]({{< baseurl >}}/pages/final-exam) »

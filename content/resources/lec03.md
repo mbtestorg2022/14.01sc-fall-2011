@@ -8,6 +8,7 @@ image_metadata:
   caption: Toilet paper is an example of an elastic good.
   credit: Image courtesy of Nic Stage on Flickr.
   image-alt: Store aisle for toilet paper.
+parent_uid: e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1
 resourcetype: Image
 title: lec03.jpg
 uid: a7c93a92-917a-7f31-1c28-246dfe73a021

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: c94fdf90-5457-1202-c278-c37041d32e5c
 resourcetype: Image
 title: lec24.jpg
 uid: b2a3f85a-070f-ccc8-3d5d-c972ba4a110f

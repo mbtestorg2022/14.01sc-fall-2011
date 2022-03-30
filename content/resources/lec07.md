@@ -8,6 +8,7 @@ image_metadata:
   caption: The decision to nap instead of work can be analyzed by economic tools.
   credit: Image courtesy of Joi Ito on Flickr.
   image-alt: ''
+parent_uid: 52d96c2f-56aa-990b-e3ea-69526d59464b
 resourcetype: Image
 title: lec07.jpg
 uid: 33f80df0-45a2-d873-690c-46d621bfe8bf

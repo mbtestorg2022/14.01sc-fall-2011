@@ -117,7 +117,7 @@ NOTES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[_14.64 Labor Economics and Public Policy, Fall 2009_](/courses/14-64-labor-economics-and-public-policy-fall-2009/).
+[_14.64 Labor Economics and Public Policy, Fall 2009_](/courses/14-64-labor-economics-and-public-policy-fall-2009).
 {{< tdclose >}}
 {{< tdopen >}}
 MIT OpenCourseWare

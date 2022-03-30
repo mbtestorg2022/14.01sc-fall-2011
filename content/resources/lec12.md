@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 74a70dbf-2813-4c7f-25ca-e0a217b6ec6f
 resourcetype: Image
 title: lec12.jpg
 uid: ecc124ff-88cf-c639-de66-0c85f6f1e79a

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 51ebf007-53b9-a85a-f746-a5c03a54785d
 resourcetype: Image
 title: lec16.jpg
 uid: f92d1547-9953-381d-5bd4-72684920f41a
